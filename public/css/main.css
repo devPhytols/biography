@@ -269,5 +269,6 @@ body {
 @media (max-width: 600px) {
     .panel-box {
         width: 300px;
+        border-color: rgba(41, 46, 59, 0.801);
     }
 }
